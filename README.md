@@ -5,7 +5,7 @@ Hello Guys, I made Tic Tac Toe using html css, and javascript. I find this chall
 
 How do I plan creating this Tic Tac Toe? 
 
-I focus on the concepts of the fundamentals provided by the javascirpt. In other words, I brainstomred a lot on how to pull it off like resseting the game, first click should be X, disabling the button when clicked, containing variables, implementing conditions and getting the winning, draw, and losing part. In css, I'm using flexbox to get the alignment of the content and let the content become responsive. In other words, I am kinda experimenting the design of the website. As the project processes, my intuition becomes fighter and finally pull off the correct function of the Tic Tac Toe. I made this prohect for 4 hours. 
+I focus on the concepts of the fundamentals provided by the javascirpt. In other words, I brainstomred a lot on how to pull it off like resseting the game, first click should be X, disabling the button when clicked, containing variables, implementing conditions and getting the winning, draw, and losing part. In css, I'm using flexbox to get the alignment of the content and let the content become responsive. In other words, I am kinda experimenting the design of the website. As the project processes, my intuition becomes fighter and finally pull off the correct function of the Tic Tac Toe. I made this project for 4 hours. 
 
 
 To see the website, pleace click the link above: 
