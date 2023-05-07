@@ -151,3 +151,47 @@ h1 {
 
 
 }
+
+@media (max-width: 367px) {
+    button {
+        height: 75px;
+        width: 75px;
+        font-size: 0.8em;
+    }
+
+    #reset {
+        width: 225px;
+    }
+
+
+}
+
+@media (max-width: 280px) {
+    button {
+        height: 60px;
+        width: 60px;
+        font-size: 0.6em;
+    }
+
+    #reset {
+        width: 190px;
+    }
+
+
+}
+
+
+
+@media (max-width: 229px) {
+    button {
+        height: 45px;
+        width: 45px;
+        font-size: 0.6em;
+    }
+
+    #reset {
+        width: 150px;
+    }
+
+
+}
