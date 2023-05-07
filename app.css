@@ -136,13 +136,7 @@ h1 {
     }
 }
 
-@media only screen and (device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) {
-    button {
-        height: 75px;
-        width: 75px;
-        font-size: 0.8em;
-    }
-}
+
 
 
 
