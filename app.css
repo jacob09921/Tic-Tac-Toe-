@@ -132,16 +132,17 @@ h1 {
 
 @media (max-width: 465px) {
     #buttons {
-        width: 95%;
+        width: 90%;
     }
 }
 
 
 
-@media (max-width: 344px) {
+@media (max-width: 367px) {
     button {
         height: 75px;
         width: 75px;
+        font-size: 0.8em;
     }
 
     #reset {
